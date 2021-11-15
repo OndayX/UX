@@ -41,4 +41,5 @@ In this warehouse it will be collected something useful for UX from the Internet
 
 - [《数据可视化设计》-1-第一章·认识数据可视化设计](https://github.com/OndayX/UX/issues/18)
 - [《数据可视化设计》-2-第二章·图表设计](https://github.com/OndayX/UX/issues/30)
-- [读后感-以人为本，制度为纲]((https://github.com/OndayX/UX/issues/29)
+- [读后感-以人为本，制度为纲](https://github.com/OndayX/UX/issues/29)
+- [思考-关于认知偏差](https://github.com/OndayX/UX/issues/26)
