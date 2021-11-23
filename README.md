@@ -44,3 +44,8 @@ In this warehouse it will be collected something useful for UX from the Internet
 - [读后感-以人为本，制度为纲](https://github.com/OndayX/UX/issues/29)
 - [思考-关于认知偏差](https://github.com/OndayX/UX/issues/26)
 - [读后感-沟通](https://github.com/OndayX/UX/issues/32)
+
+#### To B
+
+- [B端图标其一](https://github.com/OndayX/UX/issues/33)
+
